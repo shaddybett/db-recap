@@ -33,6 +33,6 @@ Base.metadata.create_all(bind=engine)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-memberName='Maya'
-memberAge = 22
-add_member(session,memberName,memberAge) 
+memberName='Kai'
+memberAge = 28
+# add_member(session,memberName,memberAge) 
