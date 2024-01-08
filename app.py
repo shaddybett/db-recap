@@ -35,4 +35,4 @@ session = Session()
 
 memberName='Kai'
 memberAge = 28
-add_member(session,memberName,memberAge) 
+# add_member(session,memberName,memberAge) 
